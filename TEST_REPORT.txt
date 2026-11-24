@@ -1,0 +1,8 @@
+AI Video Studio v4.0 static test report
+
+Missing HTML IDs referenced by app.js: NONE
+Total HTML IDs: 56
+Total app.js ID references: 47
+Gemma panel present: True
+Data migration: True
+Scoped service worker cache: True
